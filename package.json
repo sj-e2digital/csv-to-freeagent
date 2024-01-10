@@ -1,0 +1,22 @@
+{
+  "name": "csv-to-freeagent",
+  "version": "0.0.1",
+  "description": "Convert Aldermore/Shawbrook bank statements FreeAgent CSV format",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SJ Hayman",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/sj-e2digital/csv-to-freeagent/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sj-e2digital/csv-to-freeagent.git"
+  },
+  "dependencies": {
+    "csv": "^6.3.6",
+    "yargs-parser": "^21.1.1"
+  }
+}
